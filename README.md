@@ -1,2 +1,5 @@
 # photography-portfolio
-Zach McLoughlin's art portfolio for his photography
+
+Zach Magloughlin's art portfolio for photography
+
+Built from scratch
