@@ -2,31 +2,44 @@
     font-family: 'Josefin Sans', Montserrat, sans-serif;
     color: #333;
 }
-/* Header navigation bar */
-ul#navbar {
-    position: fixed;
-    top: 0;
-    width: 100%;
+body {
     margin: 0;
-    padding: 2%;
-    overflow: hidden;
+}
+/* Header navigation bar */
+nav.navbar {
+    position: fixed;
+    width: 100%;
+    margin-top: 0;
+    margin-left: 0;
+    padding: 10px 0;
+    background-color: #000000;
+}
+.navbar ul {
     list-style-type: none;
-    background-color: #000;
+    display: flex;
+    justify-content: flex-start;
 }
 ul#navbar li {
     float: left;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    padding: 0 1em;
 }
 ul#navbar li a {
-    display: block;
     color: #FFF;
     text-align: center;
-    padding: 1em;
+    padding: 5% 0;
     text-decoration: none;
+    opacity: 100%;
+    font-weight: normal;
+    transition: font-weight 0.2s;
 }
 ul#navbar li a.active {
-    font-size: 1.5em;
+    font-size: 200%;
 }
 ul#navbar li a:hover {
     opacity: 80%;
-    /* Add JS to make the text bigger but the link box stay the same size */
+    font-weight: bold;
 }
