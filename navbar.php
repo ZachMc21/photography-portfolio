@@ -1,3 +1,4 @@
+
 <header>
     <link rel="stylesheet" href="navbar.css">
 </header>
@@ -10,5 +11,3 @@
         <li><a href="contact.php">Contact</a></li>
     </ul> 
 </nav>
-
-<script><script type="javascript" src="navbar.js"></script>

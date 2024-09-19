@@ -1,0 +1,12 @@
+div#footer {
+    position: fixed;
+    width: 100%;
+    margin-bottom: 0;
+    margin-left: 0;
+
+}
+p {
+    text-emphasis: italic;
+    font-size: 0.8em;
+    background-color: #000000;
+}
