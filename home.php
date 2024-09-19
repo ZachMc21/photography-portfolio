@@ -16,20 +16,14 @@
     <title>Zach Magloughlin's Photography</title>
 </head>
 
-<body>
-    <nav class="navbar">
-        <ul id="navbar">
-            <li><a href="home.html" class="active">Home</a></li>
-            <li><a href="published.html">Published Work</a></li>
-            <li><a href="all_works.html">All Works</a></li>
-            <li><a href="contact.html">Contact</a></li>
-        </ul> 
-    </nav> <!-- End header navbar -->
 
+<body>
+
+    <?php include 'navbar.php'; ?>
+    
     <div id="main">    
     </div> <!-- End main -->
 
-    <!-- <script src="projects.js"></script> -->
 </body>
 
 <footer>
