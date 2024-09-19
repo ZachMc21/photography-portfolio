@@ -1,12 +1,12 @@
 * {
     font-family: 'Josefin Sans', Montserrat, sans-serif;
+    color: #333;
 }
 /* Header navigation bar */
 ul#navbar {
     position: fixed;
     width: 100%;
     margin: 0;
-    padding: 0;
     overflow: hidden;
     list-style-type: none;
     background-color: #000;
@@ -21,8 +21,9 @@ ul#navbar li a {
     padding: 1em;
     text-decoration: none;
 }
-ul#navbar li a.hover {
-    color: #333;
-}
 ul#navbar li a.active {
+    font-size: 1.5em;
+}
+ul#navbar li a:hover {
+    opacity: 80%;
 }
