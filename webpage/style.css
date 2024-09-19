@@ -5,8 +5,10 @@
 /* Header navigation bar */
 ul#navbar {
     position: fixed;
+    top: 0;
     width: 100%;
     margin: 0;
+    padding: 2%;
     overflow: hidden;
     list-style-type: none;
     background-color: #000;
@@ -26,4 +28,5 @@ ul#navbar li a.active {
 }
 ul#navbar li a:hover {
     opacity: 80%;
+    /* Add JS to make the text bigger but the link box stay the same size */
 }
