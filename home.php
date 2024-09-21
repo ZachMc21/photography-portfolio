@@ -8,8 +8,6 @@
     <?php include 'common.php'; ?>
     <?php include 'navbar.php'; ?>
     
-    <div id="main">    
-    </div> <!-- End main -->
 </body>
 
 </html>
