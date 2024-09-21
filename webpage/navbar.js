@@ -8,7 +8,8 @@ $(function(){
         var $href = $(this).attr('href');
         if ( ($href == $page) || ($href == '') ) {
             $(this).addClass('active');
-        } else {
+        }
+        else {
             $(this).removeClass('active');
         }
     });

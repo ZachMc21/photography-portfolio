@@ -12,5 +12,5 @@
     </ul> 
 </nav>
 
-<script src="/js/jquery.min.js"></script>
+<script src="/js/jquery-3.7.1.min.js"></script>
 <script src="navbar.js"></script>
