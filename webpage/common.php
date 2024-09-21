@@ -16,9 +16,6 @@
 
 <body>
     <?php include 'navbar.php'; ?>
-
-    <script src="js/jquery-3.7.1.min.js"></script>
-    <script src="js/jquery.url.js"></script>
 </body>
 
 </html>

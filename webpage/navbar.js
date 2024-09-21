@@ -1,19 +1,38 @@
-console.log("navbar.js reached");
 
-$(function() {
-    $page = jQuery.url.attr("file");
+//Declare global variablaes
+var projectMenu;
+var projectMenuLinks;
+var numProjectCategories;
 
-    if(!$page) {
-        $page = 'error.php';
+window.onload = function() {
+    //Set navbar to be visible
+    navbar = document.getElementsByClassName("navbar")[0];
+    console.log(navbar);
+    navbar.style.visibility = "visible";
+    console.log(navbar);
+
+    //Initialize global variables
+    projectMenu = document.getElementById("navbar");
+    projectMenuLinks = projectMenu.children;
+    //console.log(projectMenuLinks);
+
+    //Add an event listener to each item in projectMenuLinks
+    for (let i=0; i<numProjectCategories; i++) {
+        projectMenuLinks[i].addEventListener("click", function() {
+            resetProjectMenu();
+            setActiveMenu(projectMenuLinks[i]);
+        });
     }
-    $('#navbar li a').each(function() {
-        console.log($(this));
-        var $href = $(this).attr('href');
-        if ( ($href == $page) || ($href == '') ) {
-            $(this).addClass('active');
+}
+
+function resetProjectMenu() {
+    for (let i=0; i<numProjectCategories; i++) {
+        if (projectMenuLinks[i].classList.contains("active")) {
+            projectMenuLinks[i].classList.remove("active");
         }
-        else {
-            $(this).removeClass('active');
-        }
-    });
-});
+    }
+}
+
+function setActiveMenu(menuItem) {
+    menuItem.classList.add("active");
+}
