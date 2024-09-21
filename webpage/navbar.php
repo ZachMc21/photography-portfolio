@@ -1,6 +1,8 @@
 
 <header>
     <link rel="stylesheet" href="navbar.css">
+
+    <script src="navbar.js"></script>
 </header>
 
 <body>
@@ -13,5 +15,6 @@
         </ul>
     </nav>
 
-    <script src="navbar.js"></script>
+    <!-- Causing navbar to refresh when page is changed -->
+    <!-- <script src="navbar.js"></script> -->
 </body>
