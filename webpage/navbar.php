@@ -11,6 +11,3 @@
         <li><a href="contact.php">Contact</a></li>
     </ul> 
 </nav>
-
-<script src="/js/jquery-3.7.1.min.js"></script>
-<script src="navbar.js"></script>

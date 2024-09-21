@@ -14,4 +14,9 @@
     <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
 </head>
 
+<body>
+    <script src="js/jquery-3.7.1.min.js"></script>
+    <script src="js/jquery.url.js"></script>
+</body>
+
 </html>
