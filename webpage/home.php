@@ -6,7 +6,6 @@
 
 <body>
     <?php include 'common.php'; ?>
-    <?php include 'navbar.php'; ?>
     
 </body>
 

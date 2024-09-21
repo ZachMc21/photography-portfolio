@@ -1,3 +1,5 @@
+console.log("navbar.js reached");
+
 $(function() {
     $page = jQuery.url.attr("file");
 
