@@ -6,10 +6,9 @@ div#title {
     margin: 10vh auto;
     width: 80%;
     padding: 5vh;
-    padding-right: 0;
     padding-bottom: 2.25vh;
+    margin-bottom: 10vw;
     background-color: #333;
-    margin-bottom: 5vh;
 }
 h1 {
     color: #FFF;
@@ -24,11 +23,11 @@ div#name h1#last {
     margin-left: 5vw;
 }
 
-h1#photography {
+#subtitle {
     float: right;
-    font-size: 3em;
+    font-size: 2em;
     letter-spacing: 0.3em;
-    margin-right: 4vw;
-    padding: 0 4vw 3vh 4vw;
+    padding: 0 3vw;
+    margin-right: 2vw;
     background-color: #333;
 }

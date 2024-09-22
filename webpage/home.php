@@ -14,7 +14,7 @@
             <h1 id="first"> Zach </h1>
             <h1 id="last"> Magloughlin </h1>
         </div>
-        <div class="frame" id="subtitle">
+        <div id="subtitle">
             <h1 id="photography">PHOTOGRAPHY</h1>
         </div>
     </div>

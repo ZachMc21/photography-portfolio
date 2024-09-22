@@ -1,5 +1,16 @@
-.arrows {
-    display: none;
-    width: 5%;
-    height: auto;
+#showcase {
+    display: flex;
+    align-items: center;
+    row-gap: 5%;
+}
+.preview {
+    display: flex;
+}
+#main_image {
+    display: flex;
+    flex-grow: 2;
+}
+.arrows img {
+    display: flex;
+    width: 50%;
 }

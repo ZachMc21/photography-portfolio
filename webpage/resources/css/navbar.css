@@ -11,7 +11,7 @@ nav.navbar {
 .navbar ul {
     list-style-type: none;
     display: flex;
-    justify-content: flex-start;
+    align-items: flex-end;
 }
 ul#navbar li {
     float: left;
