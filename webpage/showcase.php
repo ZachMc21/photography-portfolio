@@ -5,18 +5,15 @@
     <script src="resources/js/showcase.js"></script>
 </head>
 
-<div id="showcase">
-    <div class="arrows" id="left_arrow">
-        <img src="resources/images/left-arrow.png"></img>
+<section id="carousel_container">
+    <div class="carousel">
+        <img src="resources/images/placeholder.png" class="carousel_image"> </img>
+        <img src="resources/images/placeholder.png" class="carousel_image"> </img>
+        <img src="resources/images/placeholder.png" class="carousel_image"> </img>
     </div>
-    <div class="preview" id="left_preview">
-    </div>
-    <div id="main_image">
-        <img src="resources/images/placeholder.png"> </img>
-    </div>
-    <div class="preview" id="right_preview">
-    </div>
-    <div class="arrows" id="right_arrow">
-        <img src="resources/images/right-arrow.png"></img>
-    </div>
-</div>
+
+    <span class="arrow_container">
+        <button class="arrows" id="left_arrow" type="image" src="resources/images/left-arrow.png" />
+        <button class="arrows" id="right_arrow" type="image" src="resources/images/right-arrow.png" />
+    </span>
+</section>
