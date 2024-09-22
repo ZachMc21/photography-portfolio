@@ -17,14 +17,12 @@ ul#navbar li {
     float: left;
     text-align: center;
     display: flex;
-    align-items: center;
+    align-items: baseline;
     white-space: nowrap;
-    padding: 0 1em;
 }
 ul#navbar li a {
     color: #FFF;
     text-align: center;
-    padding: 5% 0;
     text-decoration: none;
     opacity: 100%;
     font-weight: normal;

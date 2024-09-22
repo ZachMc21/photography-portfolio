@@ -1,23 +1,16 @@
-section.carousel_container {
+#carousel_container {
     display: flex;
     align-items: center;
-    justify-content:center;
-    height: 100%;
-    gap: 5vw;
+    gap: 1vw;
+    margin: 0 3vw 5vw 3vw;
 }
-.carousel.sliding-transition {
-    transition: transform 0.5s ease-in-out;
+img.left, img.right {
+    width: 20%;
 }
-
-.arrow_container {
-    position: relative;
-    overflow: hidden;
-    width: 100%;
+img.middle {
+    width: 50%;
 }
-.arrow {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 50%;
-    transform: translateY(-50%);
+.arrows {
+    width: 2.5vw;
+    height: auto;
 }

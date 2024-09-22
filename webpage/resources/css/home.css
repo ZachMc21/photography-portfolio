@@ -18,6 +18,9 @@ div#name h1 {
     font-size: 5em;
     letter-spacing: 0.025em;
 }
+div#name h1#first {
+    margin-left: 2vw;
+}
 div#name h1#last {
     margin-bottom: 5vh;
     margin-left: 5vw;
@@ -27,7 +30,7 @@ div#name h1#last {
     float: right;
     font-size: 2em;
     letter-spacing: 0.3em;
-    padding: 0 3vw;
+    padding: 0 3vw 1vw 3vw;
     margin-right: 2vw;
     background-color: #333;
 }
