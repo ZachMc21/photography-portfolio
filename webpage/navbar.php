@@ -1,8 +1,8 @@
 
 <head>
-    <link rel="stylesheet" href="navbar.css">
+    <link rel="stylesheet" href="resources/css/navbar.css">
 
-    <script src="navbar.js"></script>
+    <script src="resources/js/navbar.js"></script>
 </head>
 
 <nav class="navbar">

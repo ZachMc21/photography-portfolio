@@ -1,8 +1,8 @@
 
 <head>
-    <link rel="stylesheet" href="showcase.css">
+    <link rel="stylesheet" href="resources/css/showcase.css">
 
-    <script src="showcase.js"></script>
+    <script src="resources/js/showcase.js"></script>
 </head>
 
 <div id="left_arrow">

@@ -3,7 +3,7 @@
 <head>
     <title>Zach Magloughlin's Photography</title>
 
-    <link rel="stylesheet" href="home.css">
+    <link rel="stylesheet" href="resources/css/home.css">
 </head>
 
 <body>
