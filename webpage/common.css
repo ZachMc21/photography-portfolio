@@ -1,5 +1,8 @@
 * {
+    box-sizing: border-box;
     font-family: 'Josefin Sans', Montserrat, sans-serif;
-    color: #333;
     margin: 0;
+}
+body {
+    height: 100vh;
 }

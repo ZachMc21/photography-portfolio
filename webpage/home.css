@@ -1,0 +1,29 @@
+body {
+    color: #FFF;
+    background-color: #333;
+}
+div#title {
+    margin: 0 auto;
+    width: 80%;
+}
+div#name {
+    padding-top: 20vh;
+}
+h1 {
+    color: #FFF;
+}
+div#name h1 {
+    font-family: 'Oleo Script', 'Brush Script MT', cursive;
+    font-size: 5em;
+    letter-spacing: 0.05em;
+}
+h1#last {
+    margin-bottom: 10vh;
+    margin-left: 8vw;
+}
+
+h1#photography {
+    float: right;
+    font-size: 3em;
+    letter-spacing: 0.3em;
+}
