@@ -18,6 +18,9 @@
             <h1 id="photography">PHOTOGRAPHY</h1>
         </div>
     </div>
+
+    <?php include 'showcase.php'; ?>
+    <?php include 'footer.php'; ?>
 </body>
 
 </html>

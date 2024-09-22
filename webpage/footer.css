@@ -1,12 +1,13 @@
 div#footer {
-    position: fixed;
+    position: absolute;
     width: 100%;
     margin-bottom: 0;
-    margin-left: 0;
 
 }
 p {
     text-emphasis: italic;
+    text-align: center;
     font-size: 0.8em;
+    padding: 5vh 0;
     background-color: #000000;
 }

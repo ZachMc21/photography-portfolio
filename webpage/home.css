@@ -23,6 +23,10 @@ h1#last {
     margin-left: 5vw;
 }
 
+div.frame {
+    border: 5% solid #FFF;
+    border-bottom: 10%;
+}
 h1#photography {
     float: right;
     font-size: 3em;
