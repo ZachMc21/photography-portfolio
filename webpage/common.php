@@ -9,12 +9,12 @@
 
     <link rel="stylesheet" href="common.css">
 
-    <!-- Font import for Josefin Sans -->
+    <!-- Font import for Josefin Sans - default font -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
 
-    <!-- Font import for Oleo Script -->
+    <!-- Font import for Oleo Script - script font -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Oleo+Script:wght@400;700&display=swap" rel="stylesheet">
