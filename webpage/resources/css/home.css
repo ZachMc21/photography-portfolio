@@ -9,6 +9,7 @@ div#title {
     padding-right: 0;
     padding-bottom: 2.25vh;
     background-color: #333;
+    margin-bottom: 5vh;
 }
 h1 {
     color: #FFF;
@@ -18,15 +19,11 @@ div#name h1 {
     font-size: 5em;
     letter-spacing: 0.025em;
 }
-h1#last {
+div#name h1#last {
     margin-bottom: 5vh;
     margin-left: 5vw;
 }
 
-div.frame {
-    border: 5% solid #FFF;
-    border-bottom: 10%;
-}
 h1#photography {
     float: right;
     font-size: 3em;

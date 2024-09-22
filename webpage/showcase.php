@@ -5,11 +5,13 @@
     <script src="resources/js/showcase.js"></script>
 </head>
 
-<div id="left_arrow">
+<div class="arrows" id="left_arrow">
+    <img src="resources/images/left-arrow.png"></img>
 </div>
 <div id="left_preview">
 </div>
 <div id="right_preview">
 </div>
-<div id="right_arrow">
+<div class="arrows" id="right_arrow">
+    <img src="resources/images/right-arrow.png"></img>
 <div>
