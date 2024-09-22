@@ -1,15 +1,12 @@
 
 /* Header navigation bar */
-header {
-    display: block;
-}
 nav.navbar {
-    position: fixed;
+    display: block;
     width: 100%;
     margin-top: 0;
     margin-left: 0;
-    padding: 10vh 0;
-    background-color: #000000;
+    padding: 2vh 0;
+    background-color: #000;
 }
 .navbar ul {
     list-style-type: none;

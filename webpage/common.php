@@ -20,8 +20,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Oleo+Script:wght@400;700&display=swap" rel="stylesheet">
 </head>
 
-<body>
+<header>
     <?php include 'navbar.php'; ?>
+</header>
+
+<body>
 
     <script src="./js/jquery-3.7.1.min.js"></script>
     <script src="./js/jquery.url.js"></script>

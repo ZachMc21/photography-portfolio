@@ -1,13 +1,13 @@
 body {
     color: #FFF;
-    background-color: #333;
+    background-color: #000;
 }
 div#title {
-    margin: 0 auto;
+    margin: 10vh auto;
     width: 80%;
-}
-div#name {
-    padding-top: 20vh;
+    padding: 5vh;
+    padding-bottom: 2.25vh;
+    background-color: #111;
 }
 h1 {
     color: #FFF;
@@ -15,11 +15,11 @@ h1 {
 div#name h1 {
     font-family: 'Oleo Script', 'Brush Script MT', cursive;
     font-size: 5em;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.025em;
 }
 h1#last {
-    margin-bottom: 10vh;
-    margin-left: 8vw;
+    margin-bottom: 5vh;
+    margin-left: 5vw;
 }
 
 h1#photography {
