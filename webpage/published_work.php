@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <head>
-    <title>Zach Magloughlin's Published Photographs</title>
+    <title>Zach Magloughlin: Published Photography</title>
     
     <link rel="stylesheet" href="resources/css/published_work.css">
 </head>
