@@ -5,7 +5,9 @@
     margin: 0 3vw 5vw 3vw;
 }
 img.left, img.right {
+    height: 100%;
     width: 20%;
+    object-position: -20% 0;
 }
 img.middle {
     width: 50%;

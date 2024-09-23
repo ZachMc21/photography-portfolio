@@ -17,8 +17,10 @@ ul#navbar li {
     float: left;
     text-align: center;
     display: flex;
-    align-items: baseline;
+    justify-content: flex-start;
+    align-items: flex-end;
     white-space: nowrap;
+    padding: 1% 2% 0.5% 0;
 }
 ul#navbar li a {
     color: #FFF;

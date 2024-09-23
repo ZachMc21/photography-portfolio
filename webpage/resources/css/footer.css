@@ -4,12 +4,14 @@ div.footer {
     margin: 0 auto;
     background-color: #000000;
     padding-top: 5vh;
+    padding-bottom: 2vh;
 }
 p {
     font-style: italic;
     text-align: center;
     font-size: 0.8em;
     padding: 0.5em;
+    color: #FFF;
 }
 a {
     text-decoration: none;

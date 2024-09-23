@@ -1,0 +1,15 @@
+#published_work {
+    margin: 0 auto;
+    padding: 5% 10%;
+}
+.publish_site h1 {
+    padding: 5% 0 2% 0;
+    font-size: 3em;
+}
+.work {
+    margin: 0 auto;
+}
+.work p.caption {
+    font-size: 1.5em;
+    text-emphasis: italic;
+}
