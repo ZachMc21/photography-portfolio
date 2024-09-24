@@ -3,13 +3,22 @@
     padding: 5% 10%;
 }
 .publish_site h1 {
-    padding: 5% 0 2% 0;
+    margin: 3% 0;
     font-size: 3em;
-}
-.work {
-    margin: 0 auto;
 }
 .work p.caption {
     font-size: 1.5em;
     text-emphasis: italic;
+    opacity: 80%;
+}
+
+.work#fireflies {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+.work#fireflies img {
+    height: 80vh;
+    width: auto;
+    object-fit: contain;
 }

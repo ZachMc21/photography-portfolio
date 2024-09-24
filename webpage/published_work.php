@@ -13,8 +13,8 @@
         <div class="publish_site">
             <h1> High Grade 2024 </h1>
         </div>
-        <div class="work">
-            <img class="published" src="resources/images/placeholder.png"> </img>
+        <div class="work" id="fireflies">
+            <img class="published" src="https://lnejskmkknxakvylwydg.supabase.co/storage/v1/object/public/photography/DSC_5503.JPG"> </img>
             <p class="caption"> Fireflies on a Tightrope, 2021 </p>
         </div>
     </div>
