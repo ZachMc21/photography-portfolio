@@ -11,7 +11,7 @@
     
     <div id="published_work">
         <div class="publish_site">
-            <h1> High Grade 2024 </h1>
+            <h1> <a href="https://highgrade.mines.edu/vol2024.html" target="_blank">High Grade 2024</a> </h1>
         </div>
         <div class="work" id="fireflies">
             <img class="published" src="https://lnejskmkknxakvylwydg.supabase.co/storage/v1/object/public/photography/DSC_5503.JPG"> </img>

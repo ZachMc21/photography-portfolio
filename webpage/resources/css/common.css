@@ -7,3 +7,6 @@ body {
     background-color: #000;
     color: #FFF;
 }
+a {
+    text-decoration: none;
+}

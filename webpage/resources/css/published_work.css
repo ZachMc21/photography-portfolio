@@ -3,13 +3,23 @@
     padding: 5% 10%;
 }
 .publish_site h1 {
-    margin: 3% 0;
+    margin: 0 0 3% 0;
     font-size: 3em;
 }
+.publish_site a {
+    color: #FFF;
+    opacity: 100%;
+}
+.publish_site a:hover {
+    opacity: 80%;
+}
+
 .work p.caption {
     font-size: 1.5em;
-    text-emphasis: italic;
+    font-style: italic;
+    text-align: center;
     opacity: 80%;
+    margin: 2%;
 }
 
 .work#fireflies {

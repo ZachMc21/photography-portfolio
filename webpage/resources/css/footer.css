@@ -6,14 +6,14 @@ div.footer {
     padding-top: 5vh;
     padding-bottom: 2vh;
 }
-p {
+.footer p {
     font-style: italic;
     text-align: center;
     font-size: 0.8em;
     padding: 0.5em;
     color: #FFF;
 }
-a {
+.footer a {
     text-decoration: none;
     color: #AAA;
 }
