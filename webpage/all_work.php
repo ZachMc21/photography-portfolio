@@ -12,6 +12,8 @@
     <div id="all_work">
         <!-- Pinterest-style gallery, with captions -->
     </div>
+    
+    <?php include 'under_construction.php'; ?>
 
     <?php include 'footer.php'; ?>
 </body>

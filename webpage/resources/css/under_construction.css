@@ -1,0 +1,14 @@
+#under_construction {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10%;
+    border: 2% solid #FFF;
+}
+#under_construction img {
+    width: 15%;
+}
+#under_construction p {
+    font-size: 2em;
+    padding: 2%;
+}

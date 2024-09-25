@@ -7,7 +7,7 @@
 img.left, img.right {
     height: 100%;
     width: 20%;
-    object-position: -20% 0;
+    object-position: -10% 0;
 }
 img.middle {
     width: 50%;

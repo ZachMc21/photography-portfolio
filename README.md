@@ -18,3 +18,4 @@ Title page
 > - Make name ease in from bottom
 > - Make PHOTOGRAPHY title ease in from side, with spacing change?
 > - Image carousel - https://www.geeksforgeeks.org/create-an-autoplay-carousel-using-html-css-and-javascript/
+> - Credits page - Icons "https://www.flaticon.com/free-icons/alert" "https://www.flaticon.com/free-icons/next"
