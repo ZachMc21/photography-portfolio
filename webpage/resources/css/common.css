@@ -9,4 +9,12 @@ body {
 }
 a {
     text-decoration: none;
+    color: #AAA;
+}
+a:hover {
+    text-decoration: underline;
+    color: #FFF;
+}
+a:visited {
+    color: #AAA;
 }

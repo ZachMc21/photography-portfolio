@@ -4,6 +4,5 @@
 </header>
 
 <div class="footer">
-    <p> Zach Magloughlin, 2024 </p>
-    <p> <a href="credits.php"> Icons from Flaticon </p>
+    <p> <a href="credits.php">Zach Magloughlin, 2024 </p>
 </div>

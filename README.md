@@ -12,10 +12,8 @@ This code works with XAMPP for Windows 8.2.12. Installation steps are below.
 
 ## Backlog:
 
-Common
 > - Figure out navbar changing font size of current page (Pure JS? jQuery & jQuery URL?)
-Title page
 > - Make name ease in from bottom
 > - Make PHOTOGRAPHY title ease in from side, with spacing change?
+> - Make PHOTOGRAPHY title thin font to left, thick font to right?
 > - Image carousel - https://www.geeksforgeeks.org/create-an-autoplay-carousel-using-html-css-and-javascript/
-> - Credits page - Icons "https://www.flaticon.com/free-icons/alert" "https://www.flaticon.com/free-icons/next"
