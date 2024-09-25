@@ -8,3 +8,18 @@
     padding: 2%;
     line-height: 1.25em;
 }
+
+/* FORM STYLING */
+form {
+    width: 80%;
+    margin: 0 auto 5% auto;
+}
+form fieldset legend {
+
+}
+form fieldset label {
+
+}
+form fieldset input {
+
+}
