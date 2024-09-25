@@ -1,8 +1,10 @@
 #contact {
+    width: 80%;
+    margin: 10% auto;
+}
+#contact #intro p {
     font-size: 2em;
     background-color: #333;
-    align-content: left;
-    margin: 10%;
-    padding: 10%;
-    text-decoration: none;
+    padding: 2%;
+    line-height: 1.25em;
 }
