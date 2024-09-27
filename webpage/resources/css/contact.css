@@ -13,13 +13,61 @@
 form {
     width: 80%;
     margin: 0 auto 5% auto;
+    font-size: 1.5em;
 }
-form fieldset legend {
-
+form fieldset {
+    padding: 2%;
 }
-form fieldset label {
 
+form fieldset h1 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 2% 0 3% 0;
+    font-size: 2em;
 }
-form fieldset input {
 
+div.label_input {
+    display: flex;
+    align-items: baseline;
+    height: 10vh;
+    margin: 1% 2%;
+}
+label {
+    width: 15%;
+}
+input, textarea {
+    color: #fff;
+    background-color: #333;
+    border: 5% solid #FFF;
+    width: 85%;
+    font-size: 4vh;
+    height: 1.25em;
+    border: none;
+}
+div.label_input#message {
+    align-items: flex-start;
+}
+input[type=textarea] {
+    line-height: 1.05em;
+    height: 30vh;
+    resize: vertical;
+}
+
+/* Submit box/button */
+div#submit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2%;
+}
+input[type=submit] {
+    font-size: 1.25em;
+    height: 2em;
+    width: 40%;
+    padding: 2%;
+}
+input[type=submit]:hover {
+    background-color: #000;
+    border: 10% ridge #333;
 }
