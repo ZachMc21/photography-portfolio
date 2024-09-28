@@ -47,11 +47,10 @@ input, textarea {
 }
 div.label_input#message {
     align-items: flex-start;
+    height: 25vh;
 }
-input[type=textarea] {
-    line-height: 1.05em;
-    height: 30vh;
-    resize: vertical;
+textarea {
+    resize: none;
 }
 
 /* Submit box/button */

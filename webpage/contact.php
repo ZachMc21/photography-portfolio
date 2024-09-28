@@ -8,6 +8,8 @@
 
 <body>
     <?php include 'common.php'; ?>
+
+    <script src="resources/js/contact.js"></script>
     
     <div id="contact">
         <div id="intro">
@@ -35,7 +37,7 @@
             </div>
             <div class="label_input" id="message">
                 <label for="message">Message:</label>
-                <textarea type="textarea" id="message" name="message" required></textarea>
+                <textarea id="message" name="message" oninput="autoAdjustHeight(this)" required></textarea>
             </div>
             <div id="submit">
                 <input id="submit" type="submit" value="Submit">

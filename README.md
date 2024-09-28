@@ -12,7 +12,7 @@ This code works with XAMPP for Windows 8.2.12. Installation steps are below.
 
 ## Backlog:
 
-> - Figure out navbar changing font size of current page (Pure JS? jQuery & jQuery URL?)
+> - Figure out contact form - https://til.simonwillison.net/css/resizing-textarea
 > - Make name ease in from bottom
 > - Make PHOTOGRAPHY title ease in from side, with spacing change?
 > - Make PHOTOGRAPHY title thin font to left, thick font to right?
