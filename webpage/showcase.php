@@ -6,9 +6,9 @@
 </head>
 
 <section id="carousel_container">
-    <button class="arrows" id="left_arrow" type="image" src="resources/images/left-arrow.png"> </button>
+    <a href="#"> <img class="arrows" id="left_arrow" src="resources/images/left-arrow.png" /> </a> 
     <img class="carousel_image left" src="resources/images/placeholder.png"> </img>
     <img class="carousel_image middle" src="resources/images/placeholder.png"> </img>
     <img class="carousel_image right" src="resources/images/placeholder.png"> </img>
-    <button class="arrows" id="right_arrow" type="image" src="resources/images/right-arrow.png"> </button>
+    <a href="#"> <img class="arrows" id="right_arrow" src="resources/images/right-arrow.png" /> </a> 
 </section>
